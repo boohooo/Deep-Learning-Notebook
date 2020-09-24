@@ -1,2 +1,1 @@
-# DeepLearning
-Anything DL
+# Deep Learning
